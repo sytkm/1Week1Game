@@ -1,16 +1,23 @@
+/* line 1, /Users/sytkm/Desktop/RunGame/scss/style.scss */
 body {
   background: gray;
-  width: 100%;
-}
+  width: 100%; }
 
+/* line 5, /Users/sytkm/Desktop/RunGame/scss/style.scss */
 h1 {
   color: white;
-  text-align: center;
-}
+  text-align: center; }
 
+/* line 9, /Users/sytkm/Desktop/RunGame/scss/style.scss */
 #content {
   margin: 0 auto 0 auto;
-  width: 800px;
-}
+  width: 800px; }
 
+/* line 13, /Users/sytkm/Desktop/RunGame/scss/style.scss */
+p {
+  color: white;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.scss.map */
 /*# sourceMappingURL=style.css.map */
