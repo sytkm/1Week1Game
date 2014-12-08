@@ -1,4 +1,4 @@
 node_modules/
-./.sass-cache
-./scss-lint.log
+./.sass-cache/
+scss-lint.log
 ./*/*.map
