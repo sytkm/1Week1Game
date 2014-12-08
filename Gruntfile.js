@@ -62,5 +62,5 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-sass');
 
     grunt.registerTask('default', ['connect', 'watch']);
-    grunt.registerTask('build', ['typescript']);
+    grunt.registerTask('build', ['typescript', 'sass']);
 };

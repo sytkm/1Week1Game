@@ -1,12 +1,20 @@
 body {
-    background: gray;
-    width: 100%;
-}
+  background: gray;
+  width: 100%; }
+
 h1 {
+  color: white;
+  text-align: center; }
+
+#content {
+  margin: 0 auto 0 auto;
+  width: 800px; 
+}
+p {
     color: white;
     text-align: center;
 }
-#content {
-    margin: 0 auto 0 auto;
-    width: 800px;
-}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.scss.map */

@@ -41,7 +41,7 @@ module RunGame {
             return null;
         }
         addEnemy():Function {
-            this.enemy = this.enemiesG.create(800,this.game.rnd.integerInRange(134,334),'pipe');
+            this.enemy = this.enemiesG.create(800,this.game.rnd.integerInRange(84,334),'pipe');
             this.score += 1;
             this.labelScore.text = String(this.score);
             return null;
